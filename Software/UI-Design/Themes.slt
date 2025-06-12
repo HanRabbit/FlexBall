@@ -1,0 +1,40 @@
+{
+  "deftheme": {
+    "name": "Default",
+    "properties": [
+      {
+        "nid": 1000206,
+        "strtype": "THEME_COLOR",
+        "strval": "MainColor",
+        "intarray": [
+          232,
+          45,
+          45,
+          255
+        ],
+        "InheritedType": 0
+      }
+    ]
+  },
+  "themes": [
+    {
+      "name": "FlexTheme",
+      "properties": [
+        {
+          "nid": 1000206,
+          "flags": 2097152,
+          "strtype": "THEME_COLOR",
+          "strval": "MainColor",
+          "intarray": [
+            232,
+            45,
+            45,
+            255
+          ],
+          "InheritedType": 0
+        }
+      ]
+    }
+  ],
+  "selected_theme": "Default"
+}
